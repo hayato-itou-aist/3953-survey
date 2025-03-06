@@ -22,6 +22,9 @@
       "requirement": {
         "format": [
           "h5"
+        ],
+        "additional_info": [
+          {"test": "test"}
         ]
       }
     },
